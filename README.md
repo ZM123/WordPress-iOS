@@ -1,6 +1,6 @@
 WordPress for iOS
 
-[![BuddyBuild](https://bbzal.ngrok.io/api/statusImage?appID=57a120bbe0f5520100e11c19&branch=develop&build=latest)](http://localhost:5000/public/apps/57a120bbe0f5520100e11c19/build/latest)
+[![BuddyBuild](https://bbzal.ngrok.io/api/statusImage?appID=57b39022de0a642e18fa3a7a&branch=develop&build=latest)](http://localhost:5000/public/apps/57b39022de0a642e18fa3a7a/build/latest)
 
 ## Resources
 
